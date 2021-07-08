@@ -26,7 +26,7 @@
 
 8. **thalachh**: maximum heart rate achieved
 
-9. **exng**: exercise induced angina 
+9. **exang**: exercise induced angina 
     * 1 = yes
     * 0 = no
 
@@ -34,7 +34,7 @@
 
 11. **Slope**: 
 
-12. **caa**: number of major vessels (0-3)
+12. **ca**: number of major vessels (0-3)
 
 13. **thall**: Thal rate
 >About Thallium itself you can find more information here: https://www.healthline.com/health/thallium-stress-test
