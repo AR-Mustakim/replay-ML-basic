@@ -4,6 +4,8 @@
 1. **age**: Age of the person
 
 2. **sex**: Gender of the person
+    * 0: Female
+    * 1:Male
 
 3. **cp**: Chest Pain type chest pain type
     * Value 1: typical angina
