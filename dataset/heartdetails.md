@@ -7,7 +7,7 @@
     * 0: Female
     * 1:Male
 
-3. **cp**: Chest Pain type chest pain type
+3. **cp**: Chest Pain type 
     * Value 1: typical angina
     * Value 2: atypical angina
     * Value 3: non-anginal pain
@@ -35,6 +35,9 @@
 10. **oldpeak**: Previous peak
 
 11. **Slope**: 
+    * 0:'upsloping',
+    * 1:'flat',
+    * 2:'downsloping'
 
 12. **ca**: number of major vessels (0-3)
 
